@@ -8,4 +8,4 @@
 
 # Project: Google Docs Automated Dispute Resolution
 
-![Here's the plan - whiteboarded out just now in one of the hacking rooms @ the Stanford AI x Law hackathon.](image.png)
+![Here's the plan - whiteboarded out just now in one of the hacking rooms @ the Stanford AI x Law hackathon.](whiteboarded-project.png)
