@@ -9,3 +9,10 @@
 # Project: Google Docs Automated Dispute Resolution
 
 ![Here's the plan - whiteboarded out just now in one of the hacking rooms @ the Stanford AI x Law hackathon.](whiteboarded-project.png)
+
+## Built With:
+
+- [Langchain](https://github.com/langchain-ai/langchainjs)
+- NodeJS
+- Typescript
+- Google Docs Integrations (tbd)
