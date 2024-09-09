@@ -4,7 +4,7 @@
 - Repository: Stanford-AIxLaw-Hackathon_Google-Docs-Dispute-Resolution
 - Whiteboarding Start Time: 5:51pm PST (end: 6:16pm PST)
 - Code Start Time: 6:24pm PST
-- Code Deadline: 6:24pm PST
+- Code Deadline: 7:00pm PST
 
 # Project: Google Docs Automated Dispute Resolution
 
